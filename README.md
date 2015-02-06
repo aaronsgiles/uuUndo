@@ -10,8 +10,6 @@ This is the first official release of uuUndo, a fast, free batch uudecoding util
 
 uuUndo is shipped as a fat binary, running incredibly quickly on PowerPC machines, and makes full use of asynchronous I/O to ensure smooth operation in the background. Because it is based on Leonard Rosenthal's DropShell code, uuUndo is also fully scriptable and recordable. uuUndo requires System 7.
 
-If you find any bugs or have any comments, please email me at giles@med.cornell.edu.  Thank you.
-
 License
 =======
 Copyright (c) 2015, Aaron Giles
