@@ -4,6 +4,14 @@ These are the final uuUndo 1.0 for Macintosh sources, dating from back around 19
 
 Owing to many files involved having resource forks that have been lost over time, what's included here are all the files that had actual data. If anyone attempts to build directly from the sources, you will need to create your own project files and recreate some of the resources.
 
+Overview
+========
+This is the first official release of uuUndo, a fast, free batch uudecoding utility for the Macintosh. Although uuUndo was originally designed to work with John Norstad's NewsWatcher, it does quite nicely in its own right as a standalone drag and drop smart uudecoder.
+
+uuUndo is shipped as a fat binary, running incredibly quickly on PowerPC machines, and makes full use of asynchronous I/O to ensure smooth operation in the background. Because it is based on Leonard Rosenthal's DropShell code, uuUndo is also fully scriptable and recordable. uuUndo requires System 7.
+
+If you find any bugs or have any comments, please email me at giles@med.cornell.edu.  Thank you.
+
 License
 =======
 Copyright (c) 2015, Aaron Giles
