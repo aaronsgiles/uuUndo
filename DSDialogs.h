@@ -1,0 +1,1 @@
+#pragma once#ifndef __DSDIALOGS__#define __DSDIALOGS__void OpenUserDialog(short menuID, short menuItem);void DoUserDialog(DialogPtr theDialog, short itemHit);void CloseUserDialog(DialogPtr theDialog);void UserDialogActivate(DialogPtr theDialog, Boolean nowActive);#endif
